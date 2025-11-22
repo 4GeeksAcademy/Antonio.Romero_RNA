@@ -1,0 +1,15 @@
+# Ignorar dataset
+data/
+models/
+
+# Ignorar archivos temporales
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignorar archivos grandes innecesarios
+*.zip
+
+# Ignorar carpetas del sistema que Windows expone como junctions
+Mis imágenes/
+Mis vídeos/
